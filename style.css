@@ -311,3 +311,8 @@
                                                   bottom: 25%;
                                                   right: 15%;
                                               }
+                                              #page4 {
+                                                  height: 50vh;
+                                                  width: 100%;
+                                                  background-color: aquamarine;
+                                              }
